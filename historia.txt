@@ -2,3 +2,5 @@ esta es la historia de diego Carrero
 diego carrero estudiante de ingenieria de sistemas
 actualmente aprendiendo git y vscode con freddy vega 
 
+en este punto he aprendido mucho sobre git y 
+estamos haciendo cambios al archicvo y enviando commits 
