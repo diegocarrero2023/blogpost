@@ -1,0 +1,3 @@
+esta es la historia de diego compare_arrows
+diego carrero estudiante de indenieria de sistema
+actualmente aprendiendo git y vscode 
